@@ -1,0 +1,30 @@
+{
+    "player": {
+        "health": 10,
+        "stamina": 100,
+        "pos": [
+            3,
+            300
+        ],
+        "abilities": {
+            "dash": false,
+            "double_jump": false,
+            "special_attack": false,
+            "phantom_step": false
+        }
+    },
+    "world": {
+        "current_map": 1,
+        "current_chapter": 1,
+        "background_index": 1
+    },
+    "controls": {
+        "Move Left": 97,
+        "Move Right": 100,
+        "Jump": 32,
+        "Dash": 1073742053,
+        "Attack": 106,
+        "Heal": 104,
+        "Special_Attack": 107
+    }
+}
